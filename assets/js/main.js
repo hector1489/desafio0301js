@@ -1,6 +1,7 @@
 const PRECIO = 400000;
 
 
+
 const btn = document.querySelector(".btn");
 const cantidad = document.querySelector("#amount");
 const inputColor = document.querySelector ("#inputColor");
